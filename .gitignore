@@ -1,0 +1,14 @@
+# Eclipse
+.metadata/
+.settings/
+bin/
+.indexes/
+*.log
+.location
+.markers
+
+# Java
+*.class
+
+# Windows
+desktop.ini
