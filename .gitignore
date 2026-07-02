@@ -12,3 +12,10 @@ bin/
 
 # Windows
 desktop.ini
+
+# Maven
+target/
+
+# Eclipse generated
+org.eclipse.jdt.core/
+org.eclipse.jdt.apt.core/
