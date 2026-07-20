@@ -1,0 +1,37 @@
+.container {
+    width: 350px;
+    margin: 30px auto;
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.name {
+    color: darkblue;
+}
+
+.school{
+    color:darkslategray;
+}
+
+.total{
+    color:rgb(157, 192, 34);
+}
+
+.goal{
+    color:rgb(124, 28, 11);
+}
+
+.Avg{
+    color:blueviolet;
+}
+
+p {
+    font-size: 18px;
+}
